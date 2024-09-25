@@ -1,1 +1,1 @@
-# JS-React-THREEJS-TS-NEXTJS
+# База знаний по мере обучения JS-React-THREEJS-TS-NEXTJS(пытаюсь стать не самоучкой)
